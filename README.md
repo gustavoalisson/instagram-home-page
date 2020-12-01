@@ -10,4 +10,5 @@ O objetivo desse repositório é centralizar os conceitos estudados de CSS Flexb
 * Visual Studio Code
 
 ### Feito por Alisson Gustavo 
+Observação: O projeto foi desenvolvido com base na lógica e conceitos utilizados pela Gabriela Pinheiro.
  
